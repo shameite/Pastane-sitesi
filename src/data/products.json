@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Butik Pastalar",
+    "description": "Doğum günü ve kutlamalar için özel tasarım.",
+    "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=800&auto=format&fit=crop",
+    "imageSrcset": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=400&auto=format&fit=crop 400w, https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=800&auto=format&fit=crop 800w, https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=1200&auto=format&fit=crop 1200w"
+  },
+  {
+    "id": 2,
+    "title": "Sütlü Tatlılar",
+    "description": "Geleneksel ve modern hafif tatlılar.",
+    "imageUrl": "https://images.unsplash.com/photo-1551024601-bec78aea704b?q=80&w=800&auto=format&fit=crop",
+    "imageSrcset": "https://images.unsplash.com/photo-1551024601-bec78aea704b?q=80&w=400&auto=format&fit=crop 400w, https://images.unsplash.com/photo-1551024601-bec78aea704b?q=80&w=800&auto=format&fit=crop 800w, https://images.unsplash.com/photo-1551024601-bec78aea704b?q=80&w=1200&auto=format&fit=crop 1200w"
+  },
+  {
+    "id": 3,
+    "title": "Düğün Pastaları",
+    "description": "En özel gününüz için zarif ve katlı pastalar.",
+    "imageUrl": "https://images.unsplash.com/photo-1603532648955-039310d9ed75?q=80&w=800&auto=format&fit=crop",
+    "imageSrcset": "https://images.unsplash.com/photo-1603532648955-039310d9ed75?q=80&w=400&auto=format&fit=crop 400w, https://images.unsplash.com/photo-1603532648955-039310d9ed75?q=80&w=800&auto=format&fit=crop 800w, https://images.unsplash.com/photo-1603532648955-039310d9ed75?q=80&w=1200&auto=format&fit=crop 1200w"
+  }
+]
